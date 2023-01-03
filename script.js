@@ -12,6 +12,12 @@ const nextBtn = document.getElementById('next')
 
 // Music
 const songs = [
+{
+        name: 'ONLAP - Losing My Mind',
+        displayName: 'Losing My Mind',
+        artist: 'Onlap',
+        image: 'onlap.jpg'
+    },
     {
         name: 'Fail Emotions - Reborn',
         displayName: 'Reborn',
@@ -24,12 +30,7 @@ const songs = [
         artist: 'Fail Emotions',
         image: 'FailEm.jpeg'
     },
-    {
-        name: 'ONLAP - Losing My Mind',
-        displayName: 'Losing My Mind',
-        artist: 'Onlap',
-        image: 'onlap.jpg'
-    },
+    
     {
         name: 'Our Last Night - Same Old War',
         displayName: 'Same Old War',
