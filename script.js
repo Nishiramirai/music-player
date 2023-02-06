@@ -13,29 +13,32 @@ const nextBtn = document.getElementById('next')
 // Music
 const songs = [
 {
-        name: 'ONLAP - Losing My Mind',
-        displayName: 'Losing My Mind',
-        artist: 'Onlap',
-        image: 'onlap.jpg'
-    },
-    {
-        name: 'Fail Emotions - Reborn',
-        displayName: 'Reborn',
-        artist: 'Fail Emotions',
-        image: 'FailEm.jpeg'
-    },
     {
         name: 'Fail Emotions - 148',
         displayName: '148',
         artist: 'Fail Emotions',
         image: 'FailEm.jpeg'
     },
+
+    {
+        name: 'Fail Emotions - Reborn',
+        displayName: 'Reborn',
+        artist: 'Fail Emotions',
+        image: 'FailEm.jpeg'
+    },
+
     
     {
         name: 'Our Last Night - Same Old War',
         displayName: 'Same Old War',
         artist: 'Our Last Night',
         image: 'OLN.jpeg'
+    },
+     {
+        name: 'ONLAP - Losing My Mind',
+        displayName: 'Losing My Mind',
+        artist: 'Onlap',
+        image: 'onlap.jpg'
     }
 ]
 
